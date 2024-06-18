@@ -1,2 +1,0 @@
-# Phishing_Detection_Using_Ensemble_Classifier_Based_on_Website_Property
-phishing site classification using feature selection and voting classifier
